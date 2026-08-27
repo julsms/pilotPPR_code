@@ -1,0 +1,17 @@
+work/
+results/
+.nextflow*
+.nextflow.log*
+.timeline*
+.trace*
+.cache/
+*.html
+*.fastq*
+*.bam
+*.cram
+*.vcf*
+*.idx
+*.tbi
+*.csi
+.env
+
