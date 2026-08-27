@@ -2,7 +2,7 @@
 
 Analysis scripts for:
 
-**Improved small variant detection using personalized pangenome references for short-read sequencing data with k-mer-based validation**
+**Personalized pangenome references improve small variant detection across Illumina and Element Aviti short-read sequencing**
 
 ## Repository Structure
 
